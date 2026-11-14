@@ -1,4 +1,4 @@
-const a = 100
-const b = 85
+const a = 120;
+const b = 289
 
-module.exports = {a, b}
+module.exports =  {a, b}
